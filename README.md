@@ -1,1 +1,2 @@
 # fizzbuzzalgorith
+Fizz and Buzz refer to numbers that are divisible by 3 and 5. If a number is divisible by 3, it is replaced by “Fizz”, if the number is divisible by 5, it is replaced by “Buzz”, and if the number is divisible by 3 and 5 then the number is replaced by “FizzBuzz”.
